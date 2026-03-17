@@ -48,15 +48,6 @@
 
 </div>
 
-## GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedRamma&show_icons=true&hide_border=true&title_color=0f172a&icon_color=2563eb&text_color=0f172a&bg_color=ffffff" alt="github stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedRamma&layout=compact&hide_border=true&title_color=0f172a&text_color=0f172a&bg_color=ffffff" alt="top langs" />
-
-</div>
-
 <div align="center">
 
 > Learning fast, building useful things, and staying versatile across IT.
